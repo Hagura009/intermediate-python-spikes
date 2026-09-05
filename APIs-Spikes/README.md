@@ -37,11 +37,6 @@ This project started as a **Spike** (a fast proof of concept) to explore web ser
 
 ---
 
-## 💻 Installation and Execution
-
-1. **Clone the repository:**
-   ```bash
-
 💡 Methodology & Development Notes
 AI-Assisted Learning: AI was utilized as an interactive tutor to analyze the initial code (Spike), understand the logic behind refactoring (DRY principle, list slicing, and universal functions), and apply these improvements while preserving the original project structure and variable naming.
    
