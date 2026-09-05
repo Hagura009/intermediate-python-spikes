@@ -6,11 +6,11 @@ A Command Line Interface (CLI) tool developed in Python to explore and query the
 
 This project started as a **Spike** (a fast proof of concept) to explore web service consumption and progressively evolved into a cleaner, more modular architecture.
 
-### Version 1: Spike & Prototyping (`v1_spike.py`)
+### Version 1: Spike & Prototyping (`__V1_Spike_for_APIs.py__`)
 * **Objective:** Experiment with the `requests` library, manipulate JSON responses, and design the menu navigation logic.
 * **Implementation:** Direct handling of endpoints, admin code verification, and manual item limiting by iterating with counters.
 
-### Version 2: Clean Code Refactoring (`v2_refactored.py`)
+### Version 2: Clean Code Refactoring (`__V2_refactored.py__`)
 * **DRY (*Don't Repeat Yourself*) Optimization:** Created the `paginar_universal()` function to reuse pagination logic and exception handling instead of duplicating code for every option.
 * **List Slicing:** Replaced manual counters with direct sublists (`posts[:10]`), improving efficiency and readability.
 * **Maintainability:** Modular structure that simplifies reading and incorporating new endpoints.
