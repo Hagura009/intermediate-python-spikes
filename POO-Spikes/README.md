@@ -15,6 +15,7 @@ V4: Polymorphism — Overriding methods and unified interfaces.
 V5: Abstraction** — Using abstract classes (`abc`) and hiding implementation details.
 V6: Final Pseudo-App** — Combining all OOP pillars into a simple CLI shopping app.
 
+#### Development Note: Spikes V1 through V5 serve as isolated experimental proofs of concept focused on individual OOP pillars. Clean architecture, consistent error handling, and full refactoring are intentionally deferred to the final integration in V6.
 ---
 
 ## Spike: V1;
