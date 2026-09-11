@@ -8,16 +8,16 @@ It consists of **6 lightweight spikes / proofs of concept**, starting from basic
 
 ## Project Structure & Roadmap
 
-- [x] **Part 0: Draft / Initial Spike** — Basic syntax, dictionary operations, and initial class setup.
-- [ ] **Part 1: Encapsulation** — Protecting state and bundling data with methods.
-- [ ] **Part 2: Inheritance** — Reusing code and extending classes.
-- [ ] **Part 3: Polymorphism** — Overriding methods and unified interfaces.
-- [ ] **Part 4: Abstraction** — Using abstract classes (`abc`) and hiding implementation details.
-- [ ] **Part 5: Final Pseudo-App** — Combining all OOP pillars into a simple CLI shopping app.
+V1: Draft / Initial Spike** — Basic syntax, dictionary operations, and initial class setup.
+V2: Encapsulation** — Protecting state and bundling data with methods.
+V3: Inheritance** — Reusing code and extending classes.
+V4: Polymorphism — Overriding methods and unified interfaces.
+V5: Abstraction** — Using abstract classes (`abc`) and hiding implementation details.
+V6: Final Pseudo-App** — Combining all OOP pillars into a simple CLI shopping app.
 
 ---
 
-## Current Spike: Part 0 (Draft)
+## Spike: V1;
 
 This initial draft explores managing categorized items and prices using Python dictionaries inside a simple class.
 
@@ -29,3 +29,5 @@ Test basic state management, method calls, and dictionary manipulation within an
 - Dynamic data updates via `dict.update()`.
 - Item removal using `dict.pop()`.
 - Formatting output with `__str__` and basic loops.
+## Spike V2;
+
